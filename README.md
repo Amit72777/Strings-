@@ -1,2 +1,2 @@
-# string-python
-this is my 1st python repository 
+# string
+this is my string  repository 
